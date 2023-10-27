@@ -114,7 +114,7 @@ h2 {
 
 @keyframes flying {
     0% {
-        bottom: -100px;
+        bottom: -200px;
     }
 
     100% {
